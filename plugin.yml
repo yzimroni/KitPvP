@@ -1,0 +1,6 @@
+name: KitPvP
+main: net.yzimroni.kitpvp.KitPvPPlugin
+version: 1.0
+depend: [Vault]
+description: >
+           KitPvP plugin
